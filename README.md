@@ -34,4 +34,4 @@ env: {
 
 ## 如果遇到了问题
 
-请移动到 [我的博客]([http://blog.musclewiki.cn/search/nuxt](https://liuhai.work/search?q=nuxt)) ，里面记录了踩 Nuxt 的坑
+请移动到 [我的博客](https://liuhai.work/search?q=nuxt) ，里面记录了踩 Nuxt 的坑
